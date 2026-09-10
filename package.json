@@ -1,0 +1,21 @@
+{
+  "name": "pallet-margin-calculators",
+  "version": "1.0.0",
+  "private": false,
+  "license": "MIT",
+  "description": "Open-source FMCG pallet margin, Euro pallet TI/HI, and supermarket reverse-engineer calculators. Official live tools: https://palletmargincalculator.site",
+  "homepage": "https://palletmargincalculator.site",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/catflap55/pallet-margin-calculators.git"
+  },
+  "scripts": {
+    "test": "vitest run",
+    "preview": "python3 scripts/serve-embed.py"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.0",
+    "vite": "^8.0.3",
+    "vitest": "^5.0.0"
+  }
+}

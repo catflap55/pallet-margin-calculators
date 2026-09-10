@@ -1,0 +1,21 @@
+This folder is for Apple Mac only.
+
+FIRST: double-click Read-me-first.html (Safari will open).
+It shows the exact “Not Opened / malware” warning and the clicks
+to allow Start.command. Apple always shows that warning once.
+
+Then:
+1. If Python is missing, install it from https://www.python.org/downloads/
+2. Right-click Start.command  →  Open
+   (Do not double-click Start.command)
+
+Stop: right-click Stop.command → Open.
+
+Leave the text window open. Wait until it says Ready.
+Then the calculators open in the browser. Try
+http://localhost:43141/preview.html first.
+If that fails, try http://127.0.0.1:43141/preview.html — same tools.
+If Safari says it cannot connect, the Start window is not running.
+
+You do not need Node.js to use the calculators.
+More detail: ../README.md  (Mac section)
