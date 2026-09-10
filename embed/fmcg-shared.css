@@ -29,3 +29,4 @@
 .fmcg-badge{display:inline-block;background:#eff6ff;color:#1e40af;padding:.25rem .6rem;border-radius:6px;font-size:.75rem;font-weight:600}
 .fmcg-guide-link{display:inline-flex;align-items:center;gap:.35rem;margin-top:1rem;padding:.75rem 1.25rem;background:linear-gradient(135deg,#eff6ff,#dbeafe);border:1px solid #93c5fd;border-radius:10px;color:#1e40af;font-weight:600;font-size:.9rem;text-decoration:none}
 .fmcg-guide-link:hover{background:#dbeafe;color:#1d4ed8}
+.fmcg-disclaimer{font-size:.9rem;font-weight:700;color:#111;background:#fbbf24;padding:.85rem 1rem;border-radius:8px;margin:0 0 1rem;line-height:1.45}

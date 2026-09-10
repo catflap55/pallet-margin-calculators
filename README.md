@@ -2,6 +2,8 @@
 
 Open-source math and browser widgets for three **different** wholesale tools.
 
+This tool is for information only. It is not legal, credit, tax, or financial advice. You must do your own independent checks at the official source before you act. The authors are not liable for decisions you make from these results.
+
 **Official live version (no install, this is what ranks):**  
 [https://palletmargincalculator.site](https://palletmargincalculator.site)
 
